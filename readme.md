@@ -24,3 +24,17 @@ The following pads exist to date:
 * Ferris Hookah
 	Used on the Hookah (Ferris and Absolem inspired keyboard designed by @BharatG)
 
+Silkscreens:
+---
+![Silkscreens renders](https://i.imgur.com/5lnIIkZ.jpg)
+
+Two of these silkscreens: "Safe and unsafe rust" and "Dancing Ferris" are adapted from illustrations by the fantastic @whoisaldeka, designer of the Ferris mascot.
+
+* Safe and unsafe rust
+	Used on the base variant and the Ferris compact
+* Dancing Ferris
+	Used on the Ferris High (v0.1 and v0.2) and the Ferris bling (0.2)
+* Choc mini footprint drawings
+	Used on the Ferris Low and the Ferris Mini
+
+
